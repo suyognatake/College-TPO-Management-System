@@ -1,0 +1,2 @@
+# College-TPO-Management-System
+this college training placement organization site.basically companies are register to this portal and student applied for the job..install this project from following steps 1.install php mysql server,2.check pdo driver for mysql is install or not in ur ,machine.3.check databse name for creating databse in localhot.,4.type command php artisan migrate.5.then run server php artisan serve,this project build using Laravel framework which is basically php backend framework.
